@@ -166,7 +166,7 @@ textures\kampfsimulator\light_03\light_03_white_add.jpg <sup>[1](#Credit-1)</sup
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: Attribution-NonCommercial-ShareAlike 4.0 International \
 (See "LICENSE" file for more Informations.)
@@ -177,3 +177,5 @@ For all other content, their respective licensing rules and other legal provisio
 * id Software for Quake3
 * Dark Legion Development for Tremulous
 * Team Xonotic for NetRadiant 
+* [Grise3](https://github.com/Grise3) for bug fixes
+  
