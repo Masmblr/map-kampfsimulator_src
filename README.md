@@ -54,10 +54,10 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/31.jpg" width="100"/>](meta/preview_textures/31.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 05/06/2017  | beta | :x:        |     
-| 1.1     | 20/08/2023  | final | [💾](https://github.com/Masmblr/map-Kampfsimulator_src/releases/tag/v1.1) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 05/06/2017  | beta |
+| 1.1     | 20/08/2023  | release |
 
 ## How-To
 **Binary**:
